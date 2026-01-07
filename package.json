@@ -1,0 +1,23 @@
+{
+  "name": "tec-blog",
+  "version": "1.0.0",
+  "description": "[Zenn CLIの導入手順](https://zenn.dev/zenn/articles/install-zenn-cli#zenn-cli%E3%81%AE%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-atsushisuzuki/tec-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-atsushisuzuki/tec-blog/issues"
+  },
+  "homepage": "https://github.com/z-atsushisuzuki/tec-blog#readme",
+  "devDependencies": {
+    "zenn-cli": "^0.2.11"
+  }
+}
