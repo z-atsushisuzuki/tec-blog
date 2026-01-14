@@ -48,6 +48,7 @@ https://qiita.com/ryukez/items/5bdfb654147731268e8e
 ## 構成
 
 構成はシンプルです。
+メインのSFNのメトリクス取得とDatadogへの送信はLambdaが実行しています。
 
 ![](/images/get-sfn-execution-time-20260107/Architect-get-sfn-execution-time.png)
 
