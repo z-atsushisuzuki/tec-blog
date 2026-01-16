@@ -1,6 +1,6 @@
 ---
 title: "Step Functionsの「実行経過時間」をDatadogで可視化する"
-emoji: "U^ｪ^U"
+emoji: "🐾"
 type: "tech"
 topics: ["AWS", "StepFunctions", "Lambda", "Datadog"]
 published: false
